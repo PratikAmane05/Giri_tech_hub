@@ -23,6 +23,8 @@ Files:
 - Ques_17.java — Check divisibility by 5 and 11
 - Ques_18.java — Calculate gross salary from basic
 
+All Java solutions are placed inside the `Day1` folder. You can add future day folders (e.g., `Day2`) to keep more submissions organized.
+
 How to create a GitHub repo and push these files:
 
 1. Initialize git and commit locally:
