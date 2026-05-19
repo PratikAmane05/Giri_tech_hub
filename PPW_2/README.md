@@ -43,4 +43,4 @@ Notes:
 Repository changes in this update:
 
 - Added `Day_2/` folder containing Day 2 Java solutions (Ques_1..Ques_19)
-- Added this `PPW_2_README.md` summarizing Day 2 exercises
+- Added this `PPW_2/README.md` summarizing Day 2 exercises
