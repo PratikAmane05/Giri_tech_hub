@@ -1,8 +1,10 @@
-# PPW_1 - Basic Java Programs
+# PPW_1 - Java Assignment Programs
 
-This repository contains 18 small Java programs solving introductory problems (Ques_1 to Ques_18).
+This repository contains Java programs organized day-wise.
 
-Files:
+## Day 1 (Ques_1 to Ques_18)
+
+Basic introductory Java programs are available in the `Day1` folder:
 
 - Ques_1.java — Print: "This is first java program"
 - Ques_2.java — Input all basic data types and print them
@@ -23,7 +25,37 @@ Files:
 - Ques_17.java — Check divisibility by 5 and 11
 - Ques_18.java — Calculate gross salary from basic
 
-All Java solutions are placed inside the `Day1` folder. You can add future day folders (e.g., `Day2`) to keep more submissions organized.
+## Day 2 (Ques_1 to Ques_19)
+
+Day 2 Java exercises are available in the `Day_2` folder:
+
+1. Reverse a three-digit number without loops
+2. Find first and last digit of a three-digit number
+3. Sum of first and last digit of a number
+4. Find the third angle of a triangle
+5. Check whether a three-digit number is palindrome or not
+6. Check whether character is alphabetic or not
+7. Check profit or loss using cost price and selling price
+8. Check whether alphabet is vowel or consonant
+9. Find maximum between three numbers
+10. Find minimum between three numbers
+11. Print grade using ternary operator (A/B/C/F)
+12. Find number of notes for a given amount
+13. Check employee bonus eligibility
+14. Calculate commission based on sales amount
+15. Simple calculator using `switch`
+16. Grade remark using `switch`
+17. Day type (weekday/weekend) using `switch`
+18. Vowel/consonant check using `switch`
+19. Number to word conversion (1 to 5) using `switch`
+
+How to compile and run (example):
+
+```powershell
+cd PPW_1/Day_2
+javac Ques_1.java
+java Ques_1
+```
 
 How to create a GitHub repo and push these files:
 
