@@ -57,6 +57,48 @@ javac Ques_1.java
 java Ques_1
 ```
 
+## Day 3 (Ques_1 to Ques_25 + patterns)
+
+Day 3 exercises are available in the `Day_3` folder. This set includes core loop and number-manipulation problems (Ques_1..Ques_25) and pattern programs (patt_1..patt_10).
+
+Selected tasks included:
+
+- Ques_1 — Print natural numbers from 1 to n using a while loop
+- Ques_2 — Print natural numbers in reverse from n to 1 using a while loop
+- Ques_3 — Print alphabets a to z using a while loop
+- Ques_4 — Print even numbers between 1 and 100
+- Ques_5 — Print odd numbers between 1 and 100
+- Ques_6 — Sum of natural numbers from 1 to n
+- Ques_7 — Sum of even numbers from 1 to n
+- Ques_8 — Sum of odd numbers from 1 to n
+- Ques_9 — Multiplication table of a number
+- Ques_10 — Count digits in a number
+- Ques_11 — Sum of digits
+- Ques_12 — Product of digits
+- Ques_13 — Reverse a number
+- Ques_14 — Check palindrome
+- Ques_15 — Print ASCII characters and values
+- Ques_16 — Power computation (a^b)
+- Ques_17 — List factors of a number
+- Ques_18 — First and last digit
+- Ques_19 — Sum of first and last digit
+- Ques_20 — Swap first and last digits
+- Ques_21 — Prime number check
+- Ques_22 — Perfect number check
+- Ques_23 — Duck number check
+- Ques_24 — Strong number check
+- Ques_25 — Armstrong number check
+
+- patt_1 .. patt_10 — Various number/character/star patterns (triangle, pyramid, grids)
+
+How to compile and run Day 3 examples:
+
+```powershell
+cd PPW_1/Day_3
+javac Ques_1.java
+java Ques_1
+```
+
 How to create a GitHub repo and push these files:
 
 1. Initialize git and commit locally:
