@@ -129,6 +129,33 @@ javac Day_4/Ques_1.java
 java Day_4.Ques_1
 ```
 
+## Day 5 (Ques_1 to Ques_12)
+
+Day 5 array programs are available in the `Day_5` folder. These cover the core array operations from the latest assignment.
+
+Problems included:
+
+- Ques_1.java — Find maximum element in an array and also find minimum element
+- Ques_2.java — Calculate sum of array elements
+- Ques_3.java — Calculate average of array elements
+- Ques_4.java — Search an element in an array
+- Ques_5.java — Count even and odd numbers in an array
+- Ques_6.java — Reverse the array
+- Ques_7.java — Sort array in ascending order
+- Ques_8.java — Copy array elements into another array
+- Ques_9.java — Merge two arrays
+- Ques_10.java — Count frequency of each element
+- Ques_11.java — Find second largest element
+- Ques_12.java — Check array is palindrome or not
+
+How to compile and run Day 5 examples:
+
+```powershell
+cd PPW_1\Day_5
+javac *.java
+java Day_5.ArrayMax
+```
+
 How to create a GitHub repo and push these files:
 
 1. Initialize git and commit locally:
